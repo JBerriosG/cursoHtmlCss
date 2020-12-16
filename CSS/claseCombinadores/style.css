@@ -1,0 +1,19 @@
+/* combinador hermano cercano */
+/* h2 + p{
+    color: red;
+} */
+
+/* combinador hermano general */
+/* h2 ~ p{
+    color: red;
+} */
+
+/* combinador hijo directo */
+/* div > p{
+    color: red;
+} */
+
+/* combinador descendiente */
+div p{
+    color: red;
+}
