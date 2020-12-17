@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: rgb(34, 34, 34);
+    font-size: 1.6rem;
+    color: white;
+}
+nav{
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    left: 75%;
+}
+nav .main-nav{ 
+    margin: 1rem;
+}
+nav .main-nav li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.logo{
+    width: 100px;
+}
+main{
+    min-height: 80vh;
+    font-size: 1.6rem;
+    
+}
+aside{
+    background-color: black;
+    width: 20vw;
+    height: 80vh;
+    
+}
+.box{
+    border: 2px black solid;
+    background-color: grey;
+    max-width: 300px;
+    min-height: 200px;
+}
+footer{
+    font-size: 1.6rem;
+}
