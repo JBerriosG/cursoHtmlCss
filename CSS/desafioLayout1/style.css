@@ -41,12 +41,12 @@ aside{
     align-items: center;
 }
 .box{
-    border: .3rem solid black;
-    border-radius: .5rem;
     width: 8rem;
 }
 .box img{
     width: 100%;
+    border: .3rem solid black;
+    border-radius: .5rem;
 }
 p{
     margin: 1rem;
